@@ -1,0 +1,21 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "ReadBooks",
+  "creator": "RoobyRoo",
+  "filler_item_name": "Nothing",
+  "starting_items": [
+    {
+      "items": [
+        "Unlock Chapter"
+      ],
+      "random": 1
+    },
+    {
+      "items": [
+        "Bookmark"
+      ],
+      "random": 1
+    }
+  ],
+  "death_link": true
+}

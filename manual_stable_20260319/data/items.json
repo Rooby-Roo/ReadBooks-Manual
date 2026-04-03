@@ -1,0 +1,17 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Unlock Chapter",
+            "progression": true,
+            "category": ["You can read as far as chapter:"],
+            "count": 9999
+        },
+        {
+            "name": "Bookmark",
+            "progression": true,
+            "category": ["You have already read up to chapter:"],
+            "count": 10000
+        }
+    ]
+}
